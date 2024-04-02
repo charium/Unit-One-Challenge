@@ -9,7 +9,7 @@ HTML norms and structural values.
 
 ## Installation
 
-To install, use git clone <repo address> to download onto local storage. Edits can be done directly on github, where you can open the files, or through 
+To install, use git clone https://github.com/charium/Unit-One-Challenge.git to download onto local storage. Edits can be done directly on github, where you can open the files, or through 
 Virtual Studio. 
 
 ## Usage
