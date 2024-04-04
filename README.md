@@ -1,14 +1,9 @@
 # Unit-One-Challenge
-Mini challenge for the first module for coding boodcamp. 
-
-For the first week of the UNC Web Dev bootcamp, this challenge focuses on HTML accessibility, organization, and readabilty.
-The source code for this mock professional website has been adjusted to fit the aformentioned values. There were several formatting issues such as incorrect heading order, lack of semantic elements, and accessbility shortcomings (such as no alt="" identifier for images). In this project, I have learned how to read through a source code, act on the projessional curdesy to clean up code, and basic
-HTML norms and structural values. 
+This webpage displays Horiseons Company webpage, which informs the user about certain actions, products, and the benefits of what they offer. 
 
 ## Installation
 
 To install, use git clone https://github.com/charium/Unit-One-Challenge.git to download onto local repo. 
-
 
 ## Usage
 
